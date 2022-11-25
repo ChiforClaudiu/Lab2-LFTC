@@ -1,0 +1,22 @@
+begin
+numar a, b, 2c;
+a=25;
+b=+2.5;
+b=+--2;
+b=-27;
+b=+0.00002;
+start
+CatTimp(a!=b)
+Face
+Daca(a>b)
+Face
+a=a-b;
+stop
+Altfel
+Face
+b=b-a;
+stop
+stop
+write(a);
+stop
+Gata
